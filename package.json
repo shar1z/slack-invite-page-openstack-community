@@ -13,7 +13,7 @@
     "debug": "~2.6.9",
     "express": "~4.16.0",
     "jade": "~1.8.2",
-    "morgan": "~1.9.1",
+    "morgan": "~1.10.1",
     "request": "^2.51.0",
     "serve-favicon": "~2.4.5",
     "snyk": "^1.299.0"
